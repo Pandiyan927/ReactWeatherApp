@@ -43,8 +43,11 @@ $gulp
 5. Start the static server inside dist folder using the below following command
 ```
 $static -a 0.0.0.0
+```
 
+## Ongoing
+CSS properties can be added to get much more better User experience if given extra time
 
-## Authors
+## Author
 
 * **Pandian** 
